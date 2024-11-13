@@ -12,7 +12,7 @@ I'm passionate about data science, machine learning, and leveraging technology t
 
 - 💬 **Ask me about**: Machine Learning, Data Science, Predictive Modeling, or anything related to tech innovations.
 
-- 📫 **Reach me at**: [My personal Email] (mailto:admin@majoiengandi.com)
+- 📫 **Reach me at**: [My personal Email](mailto:admin@majoiengandi.com)
 
 - ⚡ **Fun Fact**: I play multiple instruments and speak 6+ languages!
 
