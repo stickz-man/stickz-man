@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there I am Majoie Ngandi👋
 
-**stickz-man/stickz-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Here are some interesting things about me:
 
 - 🔭 I’m currently working on intuitive projects such as
   --Data Friday which is a platform that brings Data science to the world. We use data science and machine learning models we build to address real world problems.
