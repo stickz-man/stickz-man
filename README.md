@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **stickz-man/stickz-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Majoie’s github stats](https://github-readme-stats.vercel.app/api?username=stickz-man)](https://github.com/stickz-man)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stickz-man&layout=compact)](https://github.com/stickz-man)
