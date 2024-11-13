@@ -12,10 +12,6 @@ Exploring new programming languages like Julia to expand my technical toolkit.
 ### 👯 Collaboration
 I'm open to exciting projects, especially in the intersection of **Data Science** and **Healthcare**.
 
-### 📺 Featured Video
-If you’re curious about my work, check out this video:
-  
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ### 💬 Ask Me About
 Machine Learning, Data Science, Predictive Modeling, or anything tech-related!
@@ -58,6 +54,20 @@ I play multiple instruments and speak 6+ languages!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C49F?style=flat-square&logo=machine-learning&logoColor=white)
 
+
+---
+### 🏆 Certifications & Awards
+
+![Best Undergraduate Student](https://img.shields.io/badge/Best%20Undergraduate%20Student-East%20Carolina%20University-blue?style=flat-square)
+![Chancellors Fellow](https://img.shields.io/badge/Chancellors%20Fellow-East%20Carolina%20University-blue?style=flat-square)
+![Arts Makers](https://img.shields.io/badge/Arts%20Makers-East%20Carolina%20University-blue?style=flat-square)
+![Top 15% Web Designers](https://img.shields.io/badge/LinkedIn-Top%2015%25%20Web%20Designers-blue?style=flat-square&logo=linkedin&logoColor=white)
+![Top 5% Excel Experts](https://img.shields.io/badge/LinkedIn-Top%205%25%20Excel%20Experts-blue?style=flat-square&logo=linkedin&logoColor=white)
+![Top 30% Python Experts](https://img.shields.io/badge/LinkedIn-Top%2030%25%20Python%20Experts-blue?style=flat-square&logo=linkedin&logoColor=white)
+![Videography and Video Production](https://img.shields.io/badge/Certification-Videography%20%26%20Video%20Production-green?style=flat-square)
+![Advanced SEO](https://img.shields.io/badge/Certification-Advanced%20SEO-green?style=flat-square)
+![Agile Expert](https://img.shields.io/badge/Certification-Agile%20Expert-green?style=flat-square)
+![Robotics and Process Automation](https://img.shields.io/badge/Certification-Robotics%20%26%20Process%20Automation-green?style=flat-square)
 
 ---
 
