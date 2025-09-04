@@ -17,7 +17,7 @@ I'm open to exciting projects, especially in the intersection of **Data Science*
 Machine Learning, Data Science, Predictive Modeling, or anything tech-related!
 
 ### 📫 Let's Connect!
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedInMajoie-Ngandi-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majoie-ngandi)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedInMajoieNgandi-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majoie-ngandi)
 [![Personal Email](https://img.shields.io/badge/Email-admin@majoiengandi.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:admin@majoiengandi.com)
 
 ### ⚡ Fun Fact
